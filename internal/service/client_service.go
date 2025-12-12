@@ -1,6 +1,6 @@
 package service
 
-import "github.com/jcp100760/api_go/internal/repository"
+import "github.com/jcp100760/go_gorm/internal/repository"
 
 // Service define la abstracción de la capa de negocio para clientes.
 type Service interface {

@@ -2,9 +2,9 @@ package factory
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/jcp100760/api_go/internal/handlers"
-	"github.com/jcp100760/api_go/internal/repository"
-	"github.com/jcp100760/api_go/internal/service"
+	"github.com/jcp100760/go_gorm/internal/handlers"
+	"github.com/jcp100760/go_gorm/internal/repository"
+	"github.com/jcp100760/go_gorm/internal/service"
 )
 
 // Factory es el ensamblador principal de la aplicación.
